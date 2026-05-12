@@ -1,6 +1,6 @@
 # AI / ML / LLM / Robotics Events Tracker
 > **Maintained by:** Daily automated crawler
-> **Last updated:** 2026-05-10
+> **Last updated:** 2026-05-13
 > **Scope:** AI, ML, Deep Learning, LLM, Generative AI, AI Engineering, NLP, Computer Vision, Robotics
 
 ---
@@ -31,12 +31,13 @@
 |-------|-------|----------|----------|-----|
 | World AI Cannes (WAICF) 2026 | Feb 11–13, 2026 | Cannes, France | AI / General | https://www.worldaicannes.com/ |
 | AI DevWorld 2026 | Feb 18–20, 2026 | San Jose, CA, USA | AI Engineering | https://aidevworld.com/ |
+| ⭐ NEW Gartner Data & Analytics Summit 2026 | Mar 9–11, 2026 | Gaylord Palms Resort & Convention Center, Orlando, FL, USA | AI / Data Analytics / Generative AI / Agentic AI | https://www.gartner.com/en/conferences/na/data-analytics-us |
 | NVIDIA GTC 2026 | Mar 17–21, 2026 | SAP Center, San Jose, CA, USA | AI / ML / Deep Learning | https://www.nvidia.com/gtc/ |
 | ROBOTICS-2026 World Summit | Mar 26–28, 2026 | Rome, Italy | Robotics / AI / ML | https://roboticsworldsummit.com/ |
 | HumanX 2026 | Apr 6–9, 2026 | San Francisco, CA, USA | AI / Enterprise AI | https://humanx.co/ |
-| ⭐ NEW AI Engineer Europe 2026 | Apr 8–10, 2026 | London, UK | AI Engineering / LLM | https://www.ai.engineer/europe |
-| ⭐ NEW AI Engineer Miami 2026 | Apr 20–21, 2026 | Miami, FL, USA | AI Engineering / LLM | https://www.ai.engineer/miami |
-| ⭐ NEW MLcon Amsterdam 2026 | Apr 20–24, 2026 | Amsterdam, Netherlands | ML / AI | https://mlconference.ai/amsterdam/ |
+| AI Engineer Europe 2026 | Apr 8–10, 2026 | London, UK | AI Engineering / LLM | https://www.ai.engineer/europe |
+| AI Engineer Miami 2026 | Apr 20–21, 2026 | Miami, FL, USA | AI Engineering / LLM | https://www.ai.engineer/miami |
+| MLcon Amsterdam 2026 | Apr 20–24, 2026 | Amsterdam, Netherlands | ML / AI | https://mlconference.ai/amsterdam/ |
 | Google Cloud NEXT 2026 | Apr 22–24, 2026 | Mandalay Bay Convention Center, Las Vegas, NV, USA | Cloud / AI / LLM | https://cloud.google.com/next |
 | AI Dev 26 (DeepLearning.AI) | Apr 28–29, 2026 | San Francisco, CA, USA | AI Engineering / LLM | https://ai-dev.deeplearning.ai/ |
 | ODSC Gen AI X Summit 2026 | Apr 28–30, 2026 | Boston, MA, USA | Generative AI / LLM | https://odsc.com/boston/ |
@@ -45,34 +46,39 @@
 | MLcon London 2026 | May 11–15, 2026 | London, UK | ML / AI | https://mlconference.ai/london/ |
 | AI Council 2026 | May 12–14, 2026 | San Francisco, CA, USA | AI Engineering | https://aicouncil.com/sf-2026 |
 | AI & Big Data Expo North America 2026 | May 18–19, 2026 | San Jose, CA, USA | AI / LLM / Generative AI | https://www.techexevent.com/northamerica/ |
+| ⭐ NEW Budapest Data+AI Forum 2026 | May 18–20, 2026 | Danubius Hotel Helia, Budapest, Hungary | Data / AI / ML | https://budapestdata.hu/en/ |
 | AI DevSummit 2026 | May 27–28, 2026 | South San Francisco, CA, USA | AI Engineering / LLM | https://aidevsummit.co/ |
-| ⭐ NEW AI Agent Conference 2026 | May 4, 2026 | New York, NY, USA | AI Agents / Agentic AI / LLM | https://www.agentconference.com/ |
-| ⭐ NEW QCon AI Boston 2026 | Jun 1–2, 2026 | Boston, MA, USA | AI Engineering / ML | https://boston.qcon.ai/ |
+| AI Agent Conference 2026 | May 4, 2026 | New York, NY, USA | AI Agents / Agentic AI / LLM | https://www.agentconference.com/ |
+| QCon AI Boston 2026 | Jun 1–2, 2026 | Boston, MA, USA | AI Engineering / ML | https://boston.qcon.ai/ |
 | MLcon San Diego 2026 | Jun 1–5, 2026 | San Diego, CA, USA | ML / AI | https://mlconference.ai/san-diego/ |
-| ⭐ NEW AI Engineer Melbourne 2026 | Jun 3–4, 2026 | Federation Square, Melbourne, Australia | AI Engineering / LLM | https://webdirections.org/ai-engineer/ |
+| AI Engineer Melbourne 2026 | Jun 3–4, 2026 | Federation Square, Melbourne, Australia | AI Engineering / LLM | https://webdirections.org/ai-engineer/ |
 | Generative AI Summit New York 2026 | Jun 4, 2026 | New York Marriott Marquis, New York, NY, USA | Generative AI / LLM | https://world.aiacceleratorinstitute.com/location/newyork/ |
-| ⭐ NEW Arize:Observe 2026 | Jun 4, 2026 | San Francisco, CA, USA | AI Agents / LLM / Evals / Observability | https://arize.com/observe-2026/ |
+| Arize:Observe 2026 | Jun 4, 2026 | San Francisco, CA, USA | AI Agents / LLM / Evals / Observability | https://arize.com/observe-2026/ |
 | AI Con USA 2026 | Jun 7–11, 2026 | Seattle, WA, USA | AI / LLM / Generative AI | https://aiconusa.com/ |
 | AI DevSummit New York 2026 | Jun 9–10, 2026 | TWA Hotel, New York City, NY, USA | AI Engineering / LLM | https://aidevsummit.co/newyork/ |
 | Data + AI Summit 2026 (Databricks) | Jun 15–18, 2026 | Moscone Center, San Francisco, CA, USA | Data / AI / LLM | https://www.databricks.com/dataaisummit |
-| ⭐ NEW Toronto Machine Learning Summit 2026 | Jun 16–19, 2026 | Toronto, Canada | ML / AI | https://www.torontomachinelearning.com/ |
+| Toronto Machine Learning Summit 2026 | Jun 16–19, 2026 | Toronto, Canada | ML / AI | https://www.torontomachinelearning.com/ |
 | MLcon Munich 2026 | Jun 22–26, 2026 | Munich, Germany | ML / AI | https://mlconference.ai/munich/ |
 | AI Engineer World's Fair 2026 | Jun 29–Jul 2, 2026 | San Francisco, CA, USA | AI Engineering / LLM | https://www.ai.engineer/worldsfair |
+| WeAreDevelopers World Congress Berlin 2026 | Jul 8–10, 2026 | Berlin, Germany | AI / Software Development / LLM Engineering | https://www.wearedevelopers.com/world-congress |
 | GenAI Summit SF 2026 | Jul 18–19, 2026 | Palace of Fine Arts, San Francisco, CA, USA | Generative AI / LLM / Agentic AI | https://genaisummit.ai/ |
-| ⭐ NEW Ai4 2026 | Aug 4–6, 2026 | The Venetian, Las Vegas, NV, USA | AI / Enterprise AI / LLM | https://ai4.io/ |
+| Ai4 2026 | Aug 4–6, 2026 | The Venetian, Las Vegas, NV, USA | AI / Enterprise AI / LLM | https://ai4.io/ |
 | Align AI Summit SF 2026 | Aug 19, 2026 | San Francisco, CA, USA | AI / Agentic AI / LLM | https://alignaisummit.com/ |
 | Generative AI Summit Los Angeles 2026 | Aug 26, 2026 | Los Angeles, CA, USA | Generative AI / LLM | https://world.aiacceleratorinstitute.com/location/losangeles |
 | The AI Enterprise Conference 2026 | Sep 2, 2026 | New York, NY, USA | Enterprise AI / AI Engineering | https://datascienceconnect.com/ |
+| WeAreDevelopers World Congress North America 2026 | Sep 23–25, 2026 | San José McEnery Convention Center, San José, CA, USA | AI / Software Development / LLM Engineering | https://www.wearedevelopers.com/world-congress-north-america |
 | MLcon New York 2026 | Sep 28–Oct 2, 2026 | New York, NY, USA | ML / AI | https://mlconference.ai/new-york/ |
 | The AI Conference 2026 | Sep 30–Oct 1, 2026 | Pier 48, San Francisco, CA, USA | AI / LLM / Generative AI | https://aiconference.com/ |
 | ai devCon 2026 | Oct 7–9, 2026 | CityCube Berlin, Germany | AI Engineering / LLM | https://ai.berlin/events/event/ai-devcon-2026-ai-lifecycle-conference-for-developers |
-| ⭐ NEW MIT AI Conference 2026 | Oct 17, 2026 | Computer History Museum, Mountain View, CA, USA | AI / Enterprise AI / Applied AI | https://www.mitaiconference.org/ |
-| AI LIVE: The London Summit 2026 | Oct 20–21, 2026 | Olympia London, London, UK | AI / Enterprise AI / Generative AI | https://aimagazine.com/events/ai-live |
-| AIML-2026 (United Research Forum) | Oct 26–27, 2026 | Paris, France | AI / ML | https://unitedresearchforum.com/ai-conference/ |
+| MIT AI Conference 2026 | Oct 17, 2026 | Computer History Museum, Mountain View, CA USA | AI / Enterprise AI / Applied AI | https://www.mitaiconference.org/ |
+| AI SITE: The London Summit 2026 | Oct 20–21, 2026 | Olympia London, London, UK | AI / Enterprise AI / Generative AI | https://aimagazine.com/events/ai-live |
+| AIMFL-2426 (United Research Forum) | Oct 26–27, 2026 | Paris, France | AI / ML | https://unitedresearchforum.com/ai-conference/ |
+| GitHub Universe 2026 | Oct 28–29, 2026 | Fort Mason, San Francisco, CA, USA | AI Engineering / Coding Agents | https://githubuniverse.com/ |
+| Microsoft Ignite 2026 | Nov 17–20, 2026 | Moscone Center, San Francisco, CA, USA | Enterprise AI / AI Agents / LLM | https://ignite.microsoft.com/en-US/home |
 | Generative AI Summit Toronto 2026 | Nov 19, 2026 | Courtyard Toronto Downtown, Toronto, Canada | Generative AI / LLM | https://world.aiacceleratorinstitute.com/location/toronto/ |
-| ⭐ NEW MLcon Berlin 2026 | Nov 23–27, 2026 | Berlin, Germany | ML / AI | https://mlconference.ai/berlin/ |
+| MLcon Berlin 2026 | Nov 23–27, 2026 | Berlin, Germany | ML / AI | https://mlconference.ai/berlin/ |
 | Generative AI Summit London 2026 | Dec 1, 2026 | London, UK | Generative AI / LLM | https://world.aiacceleratorinstitute.com/location/london |
-| BIG.AI@MIT 2026 | 2026 (TBD) | MIT, Cambridge, MA, USA | Generative AI / LLM | https://ide.mit.edu/events/2026-the-business-implications-of-generative-ai-mit-big-aimit/ |
+| BIGAI@hMIT 2026 | 2026 (TBD) | MIT, Cambridge, MA, USA | Generative AI / LLM | https://ide.mit.edu/events/2026-the-business-implications-of-generative-ai-mit-big-aimit/ |
 | MLSys 2026 | 2026 (TBD) | TBD | ML Systems | https://mlsys.org/ |
 
 ---
@@ -95,6 +101,8 @@
 
 | Date | Action | Events Added |
 |------|--------|--------------|
+| 2026-05-13 | Daily crawl update | 2 new events added: Gartner Data & Analytics Summit 2026, Budapest Data+AI Forum 2026 |
+| 2026-05-12 | Daily crawl update | 4 new events added: WeAreDevelopers World Congress Berlin 2026, WeAreDevelopers World Congress North America 2026, GitHub Universe 2026, Microsoft Ignite 2026 |
 | 2026-05-10 | Daily crawl update | 11 new events added: AI Engineer Europe 2026, AI Engineer Miami 2026, MLcon Amsterdam 2026, AI Agent Conference 2026, QCon AI Boston 2026, AI Engineer Melbourne 2026, Arize:Observe 2026, Toronto Machine Learning Summit 2026, Ai4 2026, MIT AI Conference 2026, MLcon Berlin 2026 |
 | 2026-05-08 | Daily crawl update | 3 new events added: ISRAI2026 (Robotics AI ML Summit Frankfurt), AI DevSummit New York 2026, AI LIVE London 2026; CoRL 2026 dates updated to Nov 9–12 |
 | 2026-05-07 | Daily crawl update | 7 new events added: Generative AI Summit Silicon Valley 2026, Generative AI Summit New York 2026, GenAI Summit SF 2026, Generative AI Summit Los Angeles 2026, ai devCon 2026, Generative AI Summit Toronto 2026, AI Builders Summit: Healthcare Boston 2027 |
