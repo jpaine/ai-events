@@ -43,10 +43,11 @@
 | AI Dev 26 (DeepLearning.AI) | Apr 28â29, 2026 | San Francisco, CA, USA | AI Engineering / LLM | https://ai-dev.deeplearning.ai/ |
 | ODSC Gen AI X Summit 2026 | Apr 28â30, 2026 | Boston, MA, USA | Generative AI / LLM | https://odsc.com/boston/ |
 | HYBRID AI 2026 (Machine Learning Week) | May 5â6, 2026 | San Francisco, CA, USA | ML / AI / LLM | https://machinelearningweek.com/ |
-| â­ NEW Rise of AI Conference 2026 | May 5â6, 2026 | Humboldt CarrÃ©, Berlin, Germany | AI / Enterprise | https://riseof.ai/conference-2026/ |
+| Rise of AI Conference 2026 | May 5â6, 2026 | Humboldt CarrÃ©, Berlin, Germany | AI / Enterprise | https://riseof.ai/conference-2026/ |
 | Data Innovation Summit 2026 | May 6â8, 2026 | Stockholm, Sweden | ML / Generative AI / Agentic AI | https://datainnovationsummit.com/ |
 | MLcon London 2026 | May 11â15, 2026 | London, UK | ML / AI | https://mlconference.ai/london/ |
 | AI Council 2026 | May 12â14, 2026 | SF Marriott Marquis, San Francisco, CA, USA | AI / Engineering / Research | https://aicouncil.com/sf-2026 |
+| ⭐ NEW Interrupt 2026 (The Agent Conference by LangChain) | May 13â14, 2026 | The Midway, San Francisco, CA, USA | AI Agents / LLM | https://interrupt.langchain.com/ |
 | AI & Big Data Expo North America 2026 | May 18â19, 2026 | San Jose Convention Center, San Jose, CA, USA | AI / Big Data / ML | https://www.ai-expo.net/northamerica/ |
 | Budapest Data+AI Forum 2026 | May 18â20, 2026 | Danubius Hotel Helia, Budapest, Hungary | Data / AI / ML | https://budapestdataaiforumkonferencia.hu/ |
 | AI DevSummit 2026 | May 27â28, 2026 | San Francisco, CA, USA | AI Engineering / LLM | https://aidevsummit.co/ |
@@ -62,13 +63,13 @@
 | Toronto Machine Learning Summit 2026 | Jun 16â19, 2026 | Toronto, Canada | ML / AI | https://www.torontomachinelearning.com/ |
 | MLcon Munich 2026 | Jun 22â26, 2026 | Munich, Germany | ML / AI | https://mlconference.ai/munich/ |
 | AI Engineer World's Fair 2026 | Jun 29âJul 2, 2026 | San Francisco, CA, USA | AI Engineering / LLM | https://www.ai.engineer/worldsfair |
-| â­ NEW AI for Good Global Summit 2026 | Jul 7â10, 2026 | Palexpo, Geneva, Switzerland | AI / Ethics / Policy | https://aiforgood.itu.int/summit26/ |
+| AI for Good Global Summit 2026 | Jul 7â10, 2026 | Palexpo, Geneva, Switzerland | AI / Ethics / Policy | https://aiforgood.itu.int/summit26/ |
 | GenAI Summit SF 2026 | Jul 10â11, 2026 | San Francisco, CA, USA | Generative AI / LLM | https://genaisummit.ai/ |
 | Ai4 2026 | Aug 11â13, 2026 | MGM Grand, Las Vegas, NV, USA | AI / Enterprise AI | https://ai4.io/ |
 | Align AI Summit SF 2026 | Aug 2026 (TBD) | San Francisco, CA, USA | AI Safety / Alignment | https://alignaisummit.org/ |
 | Generative AI Summit Los Angeles 2026 | Aug 2026 (TBD) | Los Angeles, CA, USA | Generative AI / LLM | https://world.aiacceleratorinstitute.com/location/losangeles/ |
 | The AI Enterprise Conference 2026 | Sep 2026 (TBD) | TBD | Enterprise AI | https://theaienterpriseconference.com/ |
-| â­ NEW AGNTCon + MCPCon Europe 2026 | Sep 17â18, 2026 | RAI Amsterdam, Amsterdam, Netherlands | AI Agents / MCP | https://events.linuxfoundation.org/agntcon-mcpcon-europe/ |
+| AGNTCon + MCPCon Europe 2026 | Sep 17â18, 2026 | RAI Amsterdam, Amsterdam, Netherlands | AI Agents / MCP | https://events.linuxfoundation.org/agntcon-mcpcon-europe/ |
 | WeAreDevelopers World Congress Berlin 2026 | Sep 17â19, 2026 | Messe Berlin, Berlin, Germany | AI / Software Development / LLM Engineering | https://www.wearedevelopers.com/world-congress |
 | MLSys 2026 | May 17â22, 2026 | Hyatt Regency Bellevue, Bellevue, WA, USA | ML Systems | https://mlsys.org/ |
 | WeAreDevelopers World Congress North America 2026 | Sep 23â25, 2026 | San JosÃ© McEnery Convention Center, San JosÃ©, CA, USA | AI / Software Development / LLM Engineering | https://www.wearedevelopers.com/world-congress-north-america |
@@ -78,7 +79,7 @@
 | MIT AI Conference 2026 | Oct 17, 2026 | Computer History Museum, Mountain View, CA USA | AI / Enterprise AI / Applied AI | https://www.mitaiconference.org/ |
 | AI SITE: The London Summit 2026 | Oct 20â21, 2026 | Olympia London, London, UK | AI / Enterprise AI / Generative AI | https://aimagazine.com/events/ai-site-the-london-summit |
 | AIMFL-2426 (United Research Forum) | Oct 26â27, 2026 | Paris, France | AI / ML / Deep Learning | https://unitedresearchforum.com/ai-conference/ |
-| â­ NEW AGNTCon + MCPCon North America 2026 | Oct 22â23, 2026 | San Jose, CA, USA | AI Agents / MCP | https://events.linuxfoundation.org/agntcon-mcpcon-north-america/ |
+| AGNTCon + MCPCon North America 2026 | Oct 22â23, 2026 | San Jose, CA, USA | AI Agents / MCP | https://events.linuxfoundation.org/agntcon-mcpcon-north-america/ |
 | ⭐ NEW Ray Summit 2026 | Oct–Nov 2026 (TBD) | San Francisco, CA, USA | ML / Distributed AI | https://www.anyscale.com/ray-summit |
 | GitHub Universe 2026 | Oct 2026 (TBD) | San Francisco, CA, USA | AI / Software Development | https://githubuniverse.com/ |
 | Microsoft Ignite 2026 | Nov 2026 (TBD) | Chicago, IL, USA | AI / Cloud / Enterprise | https://ignite.microsoft.com/ |
