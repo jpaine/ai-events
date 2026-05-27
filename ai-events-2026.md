@@ -1,4 +1,3 @@
-| ⭐ NEW AAAI 2027 (41st Annual) | Feb 16–23, 2027 | Montréal, Québec, Canada | AI / General | https://aaai.org/conference/aaai/aaai-27/ |
 # AI / ML / LLM / Robotics Events Tracker
 > **Maintained by:** Daily automated crawler
 > **Last updated:** 2026-05-27
@@ -91,6 +90,7 @@
 
 | Event | Dates | Location | Category | URL |
 |-------|-------|----------|----------|-----|
+| ⭐ NEW AAAI 2027 (41st Annual) | Feb 16–23, 2027 | Montréal, Québec, Canada | AI / General | https://aaai.org/conference/aaai/aaai-27/ |
 | Agentic AI Summit London 2027 | Jan 28, 2027 | London, UK | Generative AI / Agentic AI | https://world.aiacceleratorinstitute.com/location/london |
 | AI DewWorld 2027 | Feb 9–11, 2027 | Santa Clara, CA, USA | AI Engineering | https://aidevworld.com/ |
 | Generative AI Summit Washington D.C. 2027 | Feb 24, 2027 | Washington, D.C., USA | Generative AI / LLM | https://world.aiacceleratorinstitute.com/location/washington |
