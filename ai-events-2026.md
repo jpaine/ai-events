@@ -1,6 +1,6 @@
 # AI / ML / LLM / Robotics Events Tracker
 > **Maintained by:** Daily automated crawler
-> **Last updated:** 2026-06-01
+> **Last updated:** 2026-06-02
 > **Scope:** AI, ML, Deep Learning, LLM, Generative AI, AI Engineering, NLP, Computer Vision, Robotics
 
 ---
@@ -111,18 +111,32 @@
 | Ã¢Â­Â NEW Ray Summit 2026 | OctÃ¢ÂÂNov 2026 | San Francisco, CA, USA | AI Engineering / ML Infrastructure | https://www.anyscale.com/ray-summit |
 ---
 
-| ⭐ NEW Generative AI Summit Silicon Valley 2026 | Apr 15, 2026 | San Jose, CA, USA | Generative AI | https://world.aiacceleratorinstitute.com/location/siliconvalley/ |
-| ⭐ NEW Agentic AI Summit Silicon Valley 2026 | Apr 15, 2026 | San Jose, CA, USA | Agentic AI / LLM | https://world.aiacceleratorinstitute.com/location/agenticaisiliconvalley |
-| ⭐ NEW AI Week 2026 | Apr 20, 2026 | Virtual / Nationwide, USA | AI / General | https://www.aiweek.com/ |
-| ⭐ NEW Innodata GenAI Summit London 2026 | May 21, 2026 | London, UK | Generative AI | https://world.aiacceleratorinstitute.com/location/innodatasummit |
-| ⭐ NEW Agentic AI Summit New York 2026 | Jun 4, 2026 | New York, NY, USA | Agentic AI / LLM | https://world.aiacceleratorinstitute.com/location/agenticainewyork |
-| ⭐ NEW Agentic AI Summit Los Angeles 2026 | Aug 26, 2026 | Los Angeles, CA, USA | Agentic AI / LLM | https://world.aiacceleratorinstitute.com/location/agenticailosangeles |
-| ⭐ NEW Generative AI Summit Berlin 2026 | Sep 15, 2026 | Berlin, Germany | Generative AI | https://world.aiacceleratorinstitute.com/location/berlin |
-| ⭐ NEW Agentic AI Summit Berlin 2026 | Sep 15, 2026 | Berlin, Germany | Agentic AI / LLM | https://world.aiacceleratorinstitute.com/location/agenticaiberlin |
-| ⭐ NEW Generative AI Summit Boston 2026 | Oct 29, 2026 | Boston, MA, USA | Generative AI | https://world.aiacceleratorinstitute.com/location/boston |
-| ⭐ NEW Agentic AI Summit Boston 2026 | Oct 29, 2026 | Boston, MA, USA | Agentic AI / LLM | https://world.aiacceleratorinstitute.com/location/agenticaiboston |
-| ⭐ NEW Agentic AI Summit Toronto 2026 | Nov 12, 2026 | Toronto, Canada | Agentic AI / LLM | https://world.aiacceleratorinstitute.com/location/agenticaitoronto |
-| ⭐ NEW Agentic AI Summit London 2026 | Dec 1, 2026 | London, UK | Agentic AI / LLM | https://world.aiacceleratorinstitute.com/location/agenticailondon |
+| Generative AI Summit Silicon Valley 2026 | Apr 15, 2026 | San Jose, CA, USA | Generative AI | https://world.aiacceleratorinstitute.com/location/siliconvalley/ |
+| Agentic AI Summit Silicon Valley 2026 | Apr 15, 2026 | San Jose, CA, USA | Agentic AI / LLM | https://world.aiacceleratorinstitute.com/location/agenticaisiliconvalley |
+| AI Week 2026 | Apr 20, 2026 | Virtual / Nationwide, USA | AI / General | https://www.aiweek.com/ |
+| Innodata GenAI Summit London 2026 | May 21, 2026 | London, UK | Generative AI | https://world.aiacceleratorinstitute.com/location/innodatasummit |
+| Agentic AI Summit New York 2026 | Jun 4, 2026 | New York, NY, USA | Agentic AI / LLM | https://world.aiacceleratorinstitute.com/location/agenticainewyork |
+| Agentic AI Summit Los Angeles 2026 | Aug 26, 2026 | Los Angeles, CA, USA | Agentic AI / LLM | https://world.aiacceleratorinstitute.com/location/agenticailosangeles |
+| Generative AI Summit Berlin 2026 | Sep 15, 2026 | Berlin, Germany | Generative AI | https://world.aiacceleratorinstitute.com/location/berlin |
+| Agentic AI Summit Berlin 2026 | Sep 15, 2026 | Berlin, Germany | Agentic AI / LLM | https://world.aiacceleratorinstitute.com/location/agenticaiberlin |
+| Generative AI Summit Boston 2026 | Oct 29, 2026 | Boston, MA, USA | Generative AI | https://world.aiacceleratorinstitute.com/location/boston |
+| Agentic AI Summit Boston 2026 | Oct 29, 2026 | Boston, MA, USA | Agentic AI / LLM | https://world.aiacceleratorinstitute.com/location/agenticaiboston |
+| Agentic AI Summit Toronto 2026 | Nov 12, 2026 | Toronto, Canada | Agentic AI / LLM | https://world.aiacceleratorinstitute.com/location/agenticaitoronto |
+| Agentic AI Summit London 2026 | Dec 1, 2026 | London, UK | Agentic AI / LLM | https://world.aiacceleratorinstitute.com/location/agenticailondon |
+| ⭐ NEW Gartner Data & Analytics Summit 2026 | Mar 9–11, 2026 | Orlando, FL, USA | Enterprise AI / Analytics | https://www.gartner.com/en/conferences/na/data-analytics-us |
+| ⭐ NEW PyTorch Conference Europe 2026 | Apr 7–8, 2026 | Paris, France | ML / Deep Learning | https://dev.events/conferences/py-torch-conference-europe-estcvdbg |
+| ⭐ NEW GITEX ASIA 2026 | Apr 8–9, 2026 | Singapore | AI / Tech | https://dev.events/conferences/gitex-asia-2026-4h8zsbgs |
+| ⭐ NEW AgentCon Hong Kong 2026 | Apr 11, 2026 | Hong Kong | AI Agents / LLM | https://dev.events/conferences/agent-con-hong-kong-faq-hazy |
+| ⭐ NEW Gen AI Summit Valencia 2026 | Apr 11–12, 2026 | Valencia, Spain | Generative AI / LLM | https://dev.events/conferences/gen-ai-summit-2026-xq7vcz8i |
+| ⭐ NEW AgentCon Seoul 2026 | Apr 16, 2026 | Seoul, South Korea | AI Agents / LLM | https://dev.events/conferences/agent-con-seoul-txsthoap |
+| ⭐ NEW LLMday Austin 2026 Q2 | May 12, 2026 | Austin, TX, USA | LLM | https://dev.events/conferences/ll-mday-austin-2026-q2-2q4lug9i |
+| ⭐ NEW AgentCon Rome 2026 | May 15, 2026 | Rome, Italy | AI Agents / LLM | https://dev.events/conferences/agent-con-rome-9wj2gv30 |
+| ⭐ NEW AgentCamp Bangkok 2026 | May 16, 2026 | Bangkok, Thailand | AI Agents / LLM | https://dev.events/conferences/agent-camp-bangkok-1-kflmkd |
+| ⭐ NEW AgentCon Nairobi 2026 | May 18, 2026 | Nairobi, Kenya | AI Agents / LLM | https://dev.events/conferences/agent-con-nairobi-fhqk7azr |
+| ⭐ NEW Budapest Data+AI Forum 2026 | May 18–20, 2026 | Budapest, Hungary | AI / ML / Data | https://dev.events/conferences/budapest-data-ai-forum-2026-qyh4gdij |
+| ⭐ NEW AgentCon Berlin 2026 | May 19, 2026 | Berlin, Germany | AI Agents / LLM | https://dev.events/conferences/agent-con-berlin-zt9l5xww |
+| ⭐ NEW NVIDIA GTC Taipei 2026 | Jun 1–4, 2026 | Taipei, Taiwan | AI / Deep Learning / Robotics | https://www.nvidia.com/en-tw/gtc/taipei/ |
+| ⭐ NEW Conf42: Large Language Models 2026 | Jun 18, 2026 | Online | LLM / AI Engineering | https://www.conf42.com/llms2026 |
 ## 2027 Conferences (Early Announcements)
 
 | Event | Dates | Location | Category | URL |
@@ -142,11 +156,12 @@
 
 ---
 
-| ⭐ NEW Chief AI Officer Summit Dubai 2027 | May 14, 2027 | Dubai, UAE | AI Leadership | https://world.aiacceleratorinstitute.com/location/dubai |
+| Chief AI Officer Summit Dubai 2027 | May 14, 2027 | Dubai, UAE | AI Leadership | https://world.aiacceleratorinstitute.com/location/dubai |
 ## Change Log
 
 | Date | Action | Events Added |
 |------|--------|-------------|
+| 2026-06-02 | Daily crawl update | 14 new events added: Gartner Data & Analytics Summit 2026, PyTorch Conference Europe 2026, GITEX ASIA 2026, AgentCon Hong Kong 2026, Gen AI Summit Valencia 2026, AgentCon Seoul 2026, LLMday Austin 2026 Q2, AgentCon Rome 2026, AgentCamp Bangkok 2026, AgentCon Nairobi 2026, Budapest Data+AI Forum 2026, AgentCon Berlin 2026, NVIDIA GTC Taipei 2026, Conf42: Large Language Models 2026. Removed ⭐ NEW from prior entries. |
 | 2026-06-01 | Daily crawl update | 13 new events added: Generative AI Summit Silicon Valley 2026, Agentic AI Summit Silicon Valley 2026, AI Week 2026, Innodata GenAI Summit London 2026, Agentic AI Summit New York 2026, Agentic AI Summit Los Angeles 2026, Generative AI Summit Berlin 2026, Agentic AI Summit Berlin 2026, Generative AI Summit Boston 2026, Agentic AI Summit Boston 2026, Agentic AI Summit Toronto 2026, Agentic AI Summit London 2026, Chief AI Officer Summit Dubai 2027. |
 | 2026-05-31 | Daily crawl update | 4 new events added: Seattle Startup Summit 2026, AI Now Summit 2026, MCP Dev Summit Mumbai 2026, AGNTCon + MCPCon Europe 2026. Fixed typo: AI DewWorld â AI DevWorld. |
 | 2026-05-30 | Daily crawl update | 7 new events added: AgentCamp Lima 2026, Accelerate Tomorrow AI Summit 2026, World AI & Robotics Conference 2026, MCP Dev Summit Bengaluru, betterCode() GenAI Summit, AgentCon - Miami, Ray Summit 2026 |
