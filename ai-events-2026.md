@@ -1,6 +1,6 @@
 # AI / ML / LLM / Robotics Events Tracker
 > **Maintained by:** Daily automated crawler
-> **Last updated:** 2026-06-08
+> **Last updated:** 2026-06-09
 > **Scope:** AI, ML, Deep Learning, LLM, Generative AI, AI Engineering, NLP, Computer Vision, Robotics
 
 ---
@@ -22,10 +22,10 @@
 | EMNLP 2026 | Oct 24–29, 2026 | Budapest, Hungary | NLP | https://2026.emnlp.org/ |
 | CoRL 2026 | Nov 9–12, 2026 | Austin, TX, USA | Robotics / ML | https://www.corl.org/ |
 | NeurIPS 2026 (40th Annual) | Dec 6–12, 2026 | Sydney, Australia (+ Atlanta, Paris) | ML / Deep Learning / AI | https://neurips.cc/ |
-| ⭐ NEW ECCV 2026 | Sep 8–13, 2026 | Malmö, Sweden | Computer Vision | https://eccv.ecva.net/ |
-| ⭐ NEW AI ML Systems 2026 (6th Intl Conf) | Oct 6–9, 2026 | Lake Como, Italy | ML Systems | https://www.aimlsystems.org/2026/ |
-| ⭐ NEW IEEE Big Data 2026 | Dec 14–17, 2026 | Phoenix, AZ, USA | AI / Big Data | https://bigdataieee.org/ |
-| ⭐ NEW ICAIRML 2026 (2nd Intl Conf on AI, Robotics & ML) | Nov 9–11, 2026 | Rome, Italy | Robotics / AI / ML | https://www.mindspaceconferences.com/ |
+| ECCV 2026 | Sep 8–13, 2026 | Malmö, Sweden | Computer Vision | https://eccv.ecva.net/ |
+| AI ML Systems 2026 (6th Intl Conf) | Oct 6–9, 2026 | Lake Como, Italy | ML Systems | https://www.aimlsystems.org/2026/ |
+| IEEE Big Data 2026 | Dec 14–17, 2026 | Phoenix, AZ, USA | AI / Big Data | https://bigdataieee.org/ |
+| ICAIRML 2026 (2nd Intl Conf on AI, Robotics & ML) | Nov 9–11, 2026 | Rome, Italy | Robotics / AI / ML | https://www.mindspaceconferences.com/ |
 
 ---
 
@@ -96,13 +96,14 @@
 | Generative AI Summit Austin 2027 | Mar 25, 2027 | Austin, TX, USA | Generative AI / LLM | https://world.aiacceleratorinstitute.com/ |
 | AI Builders Summit: Healthcare Boston 2027 | Mar 25, 2027 | Convene One Boston Place, Boston, MA, USA | AI / Healthcare / LLM | https://world.aiacceleratorinstitute.com/location/healthcareboston/ |
 | AI Agent & Copilot Summit NA 2027 | Mar 30–Apr 1, 2027 | Gaylord Pacific, San Diego, CA, USA | AI Agents / Enterprise AI / Copilot | https://copilot.summitna.com/ |
-| AAIML 2027 | 2027 (TBD) | Tokyo, Japan | AI / ML | https://www.aaiml.net/ |
+| AAIML 2027 | Mar 29–31, 2027 | Nihon University, Tokyo, Japan | AI / ML | https://www.aaiml.net/ |
 | AI Engineer Europe 2027 | 2027 (TBD) | Europe (TBD) | AI Engineering | https://www.ai.engineer/europe |
-| ⭐ NEW WACV 2027 | Jan 4–8, 2027 | Location TBA | Computer Vision | https://wacv.thecvf.com/ |
-| ⭐ NEW ICMLSC 2027 (11th Intl Conf on ML & Soft Computing) | Jan 29–31, 2027 | Tokyo, Japan | Machine Learning | https://icmlsc.org/ |
-| ⭐ NEW AAAI 2027 (41st Annual) | Feb 16–23, 2027 | Montréal, QC, Canada | AI / General | https://aaai.org/ |
-| ⭐ NEW NVIDIA GTC 2027 | Mar 2027 (TBA) | San Jose, CA, USA | AI / General | https://www.nvidia.com/gtc/ |
-| ⭐ NEW AIM-2027 (4th Intl Conf on AI & ML) | Apr 26–28, 2027 | Orlando, FL, USA | AI / ML | https://artificialintelligence.unitedscientificgroup.org/ |
+| WACV 2027 | Jan 4–8, 2027 | Location TBA | Computer Vision | https://wacv.thecvf.com/ |
+| ICMLSC 2027 (11th Intl Conf on ML & Soft Computing) | Jan 29–31, 2027 | Tokyo, Japan | Machine Learning | https://icmlsc.org/ |
+| AAAI 2027 (41st Annual) | Feb 16–23, 2027 | Montréal, QC, Canada | AI / General | https://aaai.org/ |
+| NVIDIA GTC 2027 | Mar 2027 (TBA) | San Jose, CA, USA | AI / General | https://www.nvidia.com/gtc/ |
+| AIM-2027 (4th Intl Conf on AI & ML) | Apr 26–28, 2027 | Orlando, FL, USA | AI / ML | https://artificialintelligence.unitedscientificgroup.org/ |
+| ⭐ NEW Chief AI Officer Summit Dubai 2027 | May 14, 2027 | Dubai, UAE | Enterprise AI / Agentic AI / Leadership | https://world.aiacceleratorinstitute.com/location/dubai/ |
 
 ---
 
@@ -110,6 +111,7 @@
 
 | Date | Action | Events Added |
 |------|--------|--------------|
+| 2026-06-09 | Daily crawl update | 1 new event added: Chief AI Officer Summit Dubai 2027 (May 14, 2027, Dubai, UAE) |
 | 2026-06-08 | Daily crawl update | 9 new events added: ECCV 2026 (Malmö, Sweden), AI ML Systems 2026 (Lake Como, Italy), IEEE Big Data 2026 (Phoenix, AZ), ICAIRML 2026 (Rome, Italy), WACV 2027, ICMLSC 2027 (Tokyo), AAAI 2027 (Montréal), NVIDIA GTC 2027 (San Jose), AIM-2027 (Orlando, FL) |
 | 2026-06-07 | Daily crawl update | 3 new events added: Interrupt 2026 (The Agent Conference by LangChain) (May 13–14, San Francisco), World Summit AI 2026 (Oct 7–8, Amsterdam), AI Agent & Copilot Summit NA 2027 (Mar 30–Apr 1, San Diego) |
 | 2026-06-04 | Daily crawl update | 3 new events added: AGNTCon + MCPCon Europe 2026 (Sep 17–18, Amsterdam), AGNTCon + MCPCon North America 2026 (Oct 22–23, San Jose CA), HumanX 2027 (Mar 7–10, Las Vegas) |
