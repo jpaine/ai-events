@@ -1,6 +1,6 @@
 # AI / ML / LLM / Robotics Events Tracker
 > **Maintained by:** Daily automated crawler
-> **Last updated:** 2026-06-14
+> **Last updated:** 2026-06-13
 > **Scope:** AI, ML, Deep Learning, LLM, Generative AI, AI Engineering, NLP, Computer Vision, Robotics
 
 ---
@@ -18,6 +18,7 @@
 | ACL 2026 | Jul 2–7, 2026 | San Diego, CA, USA | NLP | https://2026.aclweb.org/ |
 | ICML 2026 | Jul 6–12, 2026 | COEX, Seoul, South Korea | ML / Deep Learning | https://icml.cc/ |
 | IJCAI 2026 | Aug 15–21, 2026 | Bremen, Germany | AI / General | https://ijcai26.org/ |
+| ⭐ NEW IEEE ICDL 2026 (Intl Conf on Development & Learning) | Sep 15–18, 2026 | Kyoto University, Kyoto, Japan | Robotics / Developmental AI / ML | https://www.ieee-ras.org/event/2026-ieee-international-conference-on-development-and-learning-icdl-67399/ |
 | IROS 2026 | Sep 27–Oct 1, 2026 | Pittsburgh, PA, USA | Robotics | https://2026.ieee-iros.org/ |
 | EMNLP 2026 | Oct 24–29, 2026 | Budapest, Hungary | NLP | https://2026.emnlp.org/ |
 | CoRL 2026 | Nov 9–12, 2026 | Austin, TX, USA | Robotics / ML | https://www.corl.org/ |
@@ -26,8 +27,6 @@
 | AI ML Systems 2026 (6th Intl Conf) | Oct 6–9, 2026 | Lake Como, Italy | ML Systems | https://www.aimlsystems.org/2026/ |
 | IEEE Big Data 2026 | Dec 14–17, 2026 | Phoenix, AZ, USA | AI / Big Data | https://bigdataieee.org/ |
 | ICAIRML 2026 (2nd Intl Conf on AI, Robotics & ML) | Nov 9–11, 2026 | Rome, Italy | Robotics / AI / ML | https://www.mindspaceconferences.com/ |
-| ⭐ NEW ICDL 2026 (IEEE Intl Conf on Development & Learning) | Sep 15–18, 2026 | Kyoto University, Kyoto, Japan | Robotics / Developmental AI | https://attend.ieee.org/icdl-2026 |
-| ⭐ NEW ICRAI 2026 (12th Intl Conf on Robotics & AI) | Dec 18–20, 2026 | Yonsei University, Songdo, Incheon, South Korea | Robotics / AI | https://www.icrai.org/ |
 
 ---
 
@@ -84,7 +83,6 @@
 | Generative AI Summit London 2026 | Dec 1, 2026 | London, UK | Generative AI / LLM | https://world.aiacceleratorinstitute.com/location/london |
 | BIG.AI@MIT 2026 | 2026 (TBD) | MIT, Cambridge, MA, USA | Generative AI / LLM | https://ide.mit.edu/events/2026-the-business-implications-of-generative-ai-mit-big-aimit/ |
 | MLSys 2026 | 2026 (TBD) | TBD | ML Systems | https://mlsys.org/ |
-| ⭐ NEW Berkeley Robotics & AI Conference 2026 | Apr 29, 2026 | Chou Hall, UC Berkeley, Berkeley, CA, USA | Robotics / AI / Applied AI | https://events.berkeley.edu/coe/event/319649-berkeley-robotics-ai-conference-2026 |
 
 ---
 
@@ -107,7 +105,6 @@
 | NVIDIA GTC 2027 | Mar 2027 (TBA) | San Jose, CA, USA | AI / General | https://www.nvidia.com/gtc/ |
 | AIM-2027 (4th Intl Conf on AI & ML) | Apr 26–28, 2027 | Orlando, FL, USA | AI / ML | https://artificialintelligence.unitedscientificgroup.org/ |
 | Chief AI Officer Summit Dubai 2027 | May 14, 2027 | Dubai, UAE | Enterprise AI / Agentic AI / Leadership | https://world.aiacceleratorinstitute.com/location/dubai/ |
-| ⭐ NEW Agentic AI Summit San Jose 2027 | Apr 14, 2027 | San Jose, CA, USA | Agentic AI / AI Engineering / LLM | https://world.aiacceleratorinstitute.com/location/agenticaisiliconvalley/ |
 
 ---
 
@@ -115,7 +112,7 @@
 
 | Date | Action | Events Added |
 |------|--------|--------------|
-| 2026-06-14 | Daily crawl update | 4 new events added: ICDL 2026 (Sep 15–18, Kyoto, Japan), ICRAI 2026 (Dec 18–20, Incheon, South Korea), Berkeley Robotics & AI Conference 2026 (Apr 29, Berkeley, CA), Agentic AI Summit San Jose 2027 (Apr 14, San Jose, CA) |
+| 2026-06-13 | Daily crawl update | 1 new event added: IEEE ICDL 2026 (Intl Conf on Development & Learning) (Sep 15–18, 2026, Kyoto, Japan) |
 | 2026-06-09 | Daily crawl update | 1 new event added: Chief AI Officer Summit Dubai 2027 (May 14, 2027, Dubai, UAE) |
 | 2026-06-08 | Daily crawl update | 9 new events added: ECCV 2026 (Malmö, Sweden), AI ML Systems 2026 (Lake Como, Italy), IEEE Big Data 2026 (Phoenix, AZ), ICAIRML 2026 (Rome, Italy), WACV 2027, ICMLSC 2027 (Tokyo), AAAI 2027 (Montréal), NVIDIA GTC 2027 (San Jose), AIM-2027 (Orlando, FL) |
 | 2026-06-07 | Daily crawl update | 3 new events added: Interrupt 2026 (The Agent Conference by LangChain) (May 13–14, San Francisco), World Summit AI 2026 (Oct 7–8, Amsterdam), AI Agent & Copilot Summit NA 2027 (Mar 30–Apr 1, San Diego) |
