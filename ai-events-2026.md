@@ -1,6 +1,6 @@
 # AI / ML / LLM / Robotics Events Tracker
 > **Maintained by:** Daily automated crawler
-> **Last updated:** 2026-09-22
+> **Last updated:** 2026-09-23
 > **Scope:** AI, ML, Deep Learning, LLM, Generative AI, AI Engineering, NLP, Computer Vision, Robotics
 
 ---
@@ -115,6 +115,7 @@
 | GAI World 2026 (4th annual) | Sep 28–30, 2026 | Hynes Convention Center, Boston, MA, USA | Generative AI / Enterprise AI / LLM | https://www.gaiworld.com/ |
 | AI Infrastructure Summit Berlin 2026 | Sep 28–29, 2026 | Berlin, Germany | AI Infrastructure / LLM | https://dev.events/conferences/ai-infrastructure-summit-2026-bxxwamog |
 | Enterprise AI Summit Berlin 2026 | Sep 28–29, 2026 | Berlin, Germany | Enterprise AI / LLM | https://dev.events/conferences/enterprise-ai-summit-2026-b40mdkzg |
+| ⭐ NEW Fully Connected 2026 (CoreWeave / Weights & Biases) | Sep 29–Oct 1, 2026 | Moscone South, San Francisco, CA, USA | AI Engineering / AI Infrastructure / LLM | https://www.coreweave.com/fully-connected-2026 |
 | The AI Conference 2026 | Sep 30–Oct 1, 2026 | Pier 48, San Francisco, CA, USA | AI / LLM / Generative AI | https://aiconference.com/ |
 | AGENTIC AI Summit 2026 | Oct 5–7, 2026 | Loudoun County, VA, USA | Agentic AI / Physical AI / Sovereign AI | https://gotoagentic.ai/ |
 | AIMLSystems 2026 (6th Intl. Conf. on AI ML Systems) | Oct 6–9, 2026 | Lake Como, Italy | AI / ML Systems | https://www.aimlsystems.org/2026/ |
@@ -129,6 +130,7 @@
 | GitHub Universe 2026 | Oct 28–29, 2026 | Fort Mason, San Francisco, CA, USA | AI Engineering / Agentic Coding / LLM | https://githubuniverse.com/ |
 | Generative AI Summit Boston 2026 | Oct 29, 2026 | Boston, MA, USA | Generative AI / LLM | https://world.aiacceleratorinstitute.com/location/boston |
 | Agentic AI Summit Boston 2026 | Oct 29, 2026 | Boston, MA, USA | Agentic AI / LLM | https://world.aiacceleratorinstitute.com/location/agenticaiboston |
+| ⭐ NEW Chief AI Officer Summit Boston 2026 | Oct 29, 2026 | Boston, MA, USA | Enterprise AI / Leadership | https://world.aiacceleratorinstitute.com/location/caioboston |
 | Ray Summit 2026 | Oct–Nov 2026 (TBD) | San Francisco, CA, USA (likely) | AI / ML Systems / Distributed Computing | https://www.anyscale.com/ray-summit/ |
 | AI Engineer Shanghai 2026 | Nov 5–6, 2026 | Shanghai, China | AI Engineering / LLM | https://ai.engineer/shanghai/2026 |
 | AI Engineer Code Summit 2026 | Nov 10–12, 2026 | Hilton Union Square, San Francisco, CA, USA | AI Engineering / Agentic Coding | https://ai.engineer/code/2026 |
@@ -139,11 +141,12 @@
 | Microsoft Ignite 2026 | Nov 17–20, 2026 | Moscone Center, San Francisco, CA, USA + Digital | Enterprise AI / Cloud / LLM | https://ignite.microsoft.com/en-US/home |
 | Generative AI Summit London 2026 | Dec 1, 2026 | London, UK | Generative AI / LLM | https://world.aiacceleratorinstitute.com/location/london |
 | Agentic AI Summit London 2026 | Dec 1, 2026 | London, UK | Agentic AI / LLM | https://world.aiacceleratorinstitute.com/location/agenticailondon |
+| ⭐ NEW Chief AI Officer Summit London 2026 | Dec 1, 2026 | London, UK | Enterprise AI / Leadership | https://world.aiacceleratorinstitute.com/location/caiolondon |
 | ODSC AI NYC 2026 | Dec 2–3, 2026 | Jay Conference Center, Bryant Park, New York, NY, USA | Applied AI / Data Science / LLM | https://summit.ai/ |
 | AI Coding Summit Berlin 2026 | Dec 4–7, 2026 | Berlin, Germany | AI Engineering / Agentic Coding | https://gitnation.com/events/ai-coding-summit-berlin |
 | AI Engineer Sydney 2026 | Dec 7–8, 2026 | Sydney, Australia | AI Engineering / LLM | https://webdirections.org/ai-engineer/ |
 | BIG.AI@MIT 2026 | 2026 (TBD) | MIT, Cambridge, MA, USA | Generative AI / LLM | https://ide.mit.edu/events/2026-the-business-implications-of-generative-ai-mit-big-aimit/ |
-| MLSys 2026 | 2026 (TBD) | TBD | ML Systems | https://mlsys.org/ |
+| MLSys 2026 | 2026 (concluded) | — | ML Systems | https://mlsys.org/Conferences/2026 |
 
 ---
 
@@ -159,36 +162,44 @@
 | AAAI 2027 | Feb 16–23, 2027 | TBD | AI / General | https://aaai.org/ |
 | Generative AI Summit Austin 2027 | Feb 24, 2027 | Austin, TX, USA | Generative AI / LLM | https://world.aiacceleratorinstitute.com/location/austin |
 | case 2027 (Conference on Agentic Software Engineering) | Feb 24–25, 2027 | Hotel AMANO Grand Central, Berlin, Germany | Agentic AI / AI Engineering | https://www.case-conf.com/ |
+| ⭐ NEW MLDS 2027 (9th ed., Analytics India Magazine) | Feb 25–26, 2027 (Bengaluru) & Mar 4–5, 2027 (Hyderabad) | Bengaluru & Hyderabad, India | Agentic AI / AI Engineering / Generative AI | https://mlds.analyticsindiamag.com/ |
 | HumanX 2027 | Mar 7–10, 2027 | Mandalay Bay, Las Vegas, NV, USA | AI / Enterprise AI | https://www.humanx.co/ |
+| ⭐ NEW HRI 2027 (22nd ACM/IEEE Intl. Conf. on Human-Robot Interaction) | Mar 8–12, 2027 | Santa Clara, CA, USA | Robotics / HRI / AI | https://humanrobotinteraction.org/2027/ |
 | EACL 2027 (20th European Chapter of the ACL) | Mar 9–14, 2027 | Athens, Greece | NLP | https://2027.eacl.org/ |
 | NVIDIA GTC 2027 | Mar 15–19, 2027 | San Jose, CA, USA | AI / ML / Deep Learning | https://www.nvidia.com/gtc/ |
 | ROBOTICS-2027 World Summit (2nd) | Mar 18–20, 2027 | Shinagawa Prince Hotel, Tokyo, Japan | Robotics / AI / ML | https://roboticsworldsummit.com/ |
 | Agentic AI in Healthcare Summit Boston 2027 | Mar 25, 2027 | Convene One Boston Place, Boston, MA, USA | AI / Healthcare / LLM | https://world.aiacceleratorinstitute.com/location/healthcareboston/ |
 | AAIML 2027 (2nd Intl. Conf. on Advances in AI & ML) | Mar 29–31, 2027 | Surugadai Campus, Nihon University, Tokyo, Japan | AI / ML | https://www.aaiml.net/ |
+| ⭐ NEW AI Agent & Copilot Summit NA 2027 (3rd annual) | Mar 30–Apr 1, 2027 | Gaylord Pacific, San Diego, CA, USA | Agentic AI / Enterprise AI (Microsoft stack) | https://copilot.summitna.com/ |
 | AIRC 2027 (8th Intl. Conf. on AI, Robotics & Control) | Apr 6–8, 2027 | Arizona State University, Tempe, AZ, USA | AI / Robotics / Control | https://www.airc.org/ |
 | Gen AI Summit EU 2027 | Apr 2027 (TBD) | Valencia, Spain | Generative AI | https://genaisummit.eu/en/ |
+| ⭐ NEW Generative AI Summit Silicon Valley 2027 | Apr 14, 2027 | San Jose, CA, USA | Generative AI / LLM | https://world.aiacceleratorinstitute.com/location/siliconvalley/ |
 | Agentic AI Summit San Jose 2027 | Apr 14, 2027 | Doubletree by Hilton, San Jose, CA, USA | Agentic AI / Generative AI | https://world.aiacceleratorinstitute.com/location/agenticaisiliconvalley/ |
-| ⭐ NEW AI Coding Summit Asia 2027 | Apr 15–20, 2027 | Singapore | AI Engineering / Agentic Coding | https://gitnation.com/events/ai-coding-summit-singapore-2027 |
+| ⭐ NEW Chief AI Officer Summit San Jose 2027 | Apr 14, 2027 | San Jose, CA, USA | Enterprise AI / Leadership | https://world.aiacceleratorinstitute.com/location/caiosiliconvalley |
+| AI Coding Summit Asia 2027 | Apr 15–20, 2027 | Singapore | AI Engineering / Agentic Coding | https://gitnation.com/events/ai-coding-summit-singapore-2027 |
 | MLcon Amsterdam 2027 | Apr 19–23, 2027 | Van der Valk Amstel, Amsterdam, Netherlands | ML / Generative AI | https://mlconference.ai/amsterdam/ |
-| ICLR 2027 (15th) | Apr 26–30, 2027 (main conf Apr 26–28; workshops Apr 29–30) | TBA | Deep Learning | https://iclr.cc/Conferences/2027/Dates |
+| ICLR 2027 (15th) | Apr 26–30, 2027 (main conf Apr 26–28; workshops Apr 29–30) | California, USA | Deep Learning | https://iclr.cc/Conferences/2027/Dates |
 | AI Engineer Miami 2027 | Apr 26–27, 2027 | Miami, FL, USA | AI Engineering / LLM | https://ai.engineer/miami/2027 |
+| ⭐ NEW ISRAI2027 (4th Intl. Summit on Robotics, AI & ML) | Apr 26–27, 2027 | Milan, Italy | Robotics / AI / ML | https://robotics2027.spectrumconferences.com/ |
 | AIM 2027 (4th Intl. Conf. on AI & ML) | Apr 26–28, 2027 | Orlando, FL, USA | AI / ML / Generative AI | https://artificialintelligence.unitedscientificgroup.org/conference-info |
 | ODSC AI East 2027 | May 2027 (TBD) | Boston, MA, USA (TBD) | Applied AI / Data Science / LLM | https://odsc.ai/ |
 | Agent Conference 2027 | May 17–18, 2027 | New York Hilton Midtown, New York, NY, USA | AI Agents / Agentic AI / LLM | https://www.agentconference.com/ |
-| ⭐ NEW Data Innovation Summit 2027 | May 18–20, 2027 | Kistamässan, Stockholm, Sweden | ML / Generative AI / Agentic AI | https://datainnovationsummit.com/region/nordics/ |
+| Data Innovation Summit 2027 | May 18–20, 2027 | Kistamässan, Stockholm, Sweden | ML / Generative AI / Agentic AI | https://datainnovationsummit.com/region/nordics/ |
 | ICMLT 2027 (12th Intl. Conf. on ML Technologies) | May 21–23, 2027 | Stockholm, Sweden | ML / Robotics / Autonomous Systems | https://callforpaper.org/cfp/call-for-papers-icmlt-ei-2027 |
 | Robotics-2027 (4th Intl. Conf. on Robotics, Automation & Intelligent Systems) | May 24–25, 2027 | Berlin, Germany | Robotics / AI / Intelligent Systems | https://robotics2027.pagesconferences.org/ |
 | NAACL 2027 | Jun 1–5, 2027 | San Francisco, CA, USA | NLP | https://2027.naacl.org/ |
 | Generative AI Summit New York 2027 | Jun 3, 2027 | New York, NY, USA | Generative AI / LLM | https://world.aiacceleratorinstitute.com/location/newyork/ |
 | Agentic AI Summit New York 2027 | Jun 3, 2027 | New York, NY, USA | Agentic AI / LLM | https://world.aiacceleratorinstitute.com/location/agenticainewyork/ |
+| ⭐ NEW Chief AI Officer Summit New York 2027 | Jun 3, 2027 | New York, NY, USA | Enterprise AI / Leadership | https://world.aiacceleratorinstitute.com/location/caionewyork |
 | CVPR 2027 | Jun 20–24, 2027 | Seattle, WA, USA | Computer Vision | https://cvpr.thecvf.com/Conferences/2027 |
+| MLSys 2027 (10th Annual) | Jun 21–25, 2027 | Bellevue, WA, USA | ML Systems | https://mlsys.org/ |
 | AI Engineer World's Fair 2027 | Jun 29–Jul 2, 2027 | Moscone West, San Francisco, CA, USA | AI Engineering / LLM | https://ai.engineer/worldsfair/2027 |
 | ICML 2027 | Jul 2027 (dates TBC) | South America (host city TBA) | ML / Deep Learning | https://icml.cc/ |
 | ACL 2027 (65th Annual Meeting) | Aug 17–22, 2027 | Japan (hybrid) | NLP | https://www.aclweb.org/ |
 | AGNTCon + MCPCon Europe 2027 | Sep 15–16, 2027 | London, UK | Agentic AI / AI Engineering (MCP) | https://events.linuxfoundation.org/agntcon-mcpcon-europe-2027/ |
+| ⭐ NEW ECML PKDD 2027 | Sep 20–24, 2027 (TBC) | Eindhoven, Netherlands | ML / Data Mining | https://ecmlpkdd.org/2027/ |
 | Agentic AI in Financial Services Summit 2027 | Sep 30, 2027 | New York, NY, USA | Agentic AI / Financial Services | https://world.aiacceleratorinstitute.com/location/agenticfinance |
 | NeurIPS 2027 | Dec 2027 (TBD) | Europe (host city TBA) | ML / Deep Learning / AI | https://neurips.cc/ |
-| MLSys 2027 | 2027 (TBD) | TBD | ML Systems | https://mlsys.org/ |
 | MLcon London 2027 | Spring 2027 (TBD) | London, UK | ML / AI | https://mlconference.ai/london/ |
 | MLcon San Diego 2027 | Summer 2027 (TBD) | San Diego, CA, USA | ML / AI | https://mlconference.ai/san-diego/ |
 | MLcon Munich 2027 | Summer 2027 (TBD) | Munich, Germany | ML / AI | https://mlconference.ai/munich/ |
@@ -199,6 +210,7 @@
 
 | Date | Action | Events Added |
 |------|--------|--------------|
+| 2026-09-23 | Daily crawl update | 10 new events: Fully Connected 2026 (CoreWeave/W&B, Moscone South SF, Sep 29–Oct 1, 2026), Chief AI Officer Summit Boston 2026 (Oct 29), Chief AI Officer Summit London 2026 (Dec 1), MLDS 2027 (Analytics India Magazine, Bengaluru Feb 25–26 + Hyderabad Mar 4–5, 2027), HRI 2027 (22nd ACM/IEEE Human-Robot Interaction, Santa Clara, Mar 8–12, 2027), AI Agent & Copilot Summit NA 2027 (Gaylord Pacific San Diego, Mar 30–Apr 1, 2027), Generative AI Summit Silicon Valley 2027 (San Jose, Apr 14), Chief AI Officer Summit San Jose 2027 (Apr 14), ISRAI2027 (4th Intl. Summit on Robotics, AI & ML, Milan, Apr 26–27, 2027), Chief AI Officer Summit New York 2027 (Jun 3), ECML PKDD 2027 (Eindhoven, Sep 20–24 TBC). Corrections: MLSys 2027 confirmed as Jun 21–25, 2027 at Bellevue, WA per the official MLSys site (was "2027 TBD / TBD"); the stale "MLSys 2026 TBD" row replaced with a concluded-conference pointer; ICLR 2027 location refined to California, USA per official dates page. Verified-no-change: MLcon Amsterdam 2027 (Apr 19–23) confirmed on organizer homepage; MLcon London/San Diego/Munich 2027 still "dates soon"; ICML 2027 still South America TBC. Not added: Humanoid Robot Conference 2027 (Los Angeles) — official domain humanoidrobotsconference.com is still parked/for-sale and third-party listings give conflicting dates (Feb 17–19 vs Apr 28–30), excluded for a second consecutive crawl; ICMLSC 2027 (Tokyo, Jan 29–31) — listed only via aggregators, official site not independently verified this run; CISO Summit editions co-located with the AIAI summits — security scope, outside this tracker; EVOLVE, Civo Navigate London, Berlin Expert Days, Atlas Digital Summit, ValuSignal — general dev/cloud events tagged LLM by aggregator, outside AI-first scope. |
 | 2026-09-22 | Daily crawl update | 2 new events: AI Coding Summit Asia 2027 (Singapore, Apr 15–20, 2027 — GitNation series, joins existing London/NYC/Berlin editions), Data Innovation Summit 2027 (Kistamässan, Stockholm, May 18–20, 2027). Verified-no-change: ICML 2027 remains South America with dates TBC per official Future Meetings page; MLcon Amsterdam 2027 (Apr 19–23) and MLcon London/San Diego/Munich 2027 (Spring/Summer TBD) already accurate. Not added: AGSAIML2027 (Barcelona, Mar 8–10) — organizer site returned no content, could not verify; Generative AI Expo "2027" — site still advertises Feb 2025 dates, no 2027 edition announced; ICLR "Aug 2027 Sydney" listing on waset.org — conflicts with official ICLR 2027 dates (Apr 26–30), predatory-publisher source, excluded; EVOLVE (NYC), Civo Navigate London, Berlin Expert Days, Atlas Digital Summit, ValuSignal — general developer/cloud/digital events tagged LLM by aggregator, outside AI-first scope; MCP Community Connect Bengaluru — duplicate listing of MCP Connect Bengaluru 2026 (same date/city/topic). |
 | 2026-09-18 | Daily crawl update | 10 new events: Boston AI Week 2026 (Sep 16–Oct 28, Massachusetts statewide festival), design + AI 2026 (Brighton), MCP Connect Bengaluru 2026, Global AI Conference Chennai 2026, TSAIR 2026 (Paris + Online), GAI World 2026 (Boston, Hynes Convention Center), AI Infrastructure Summit Berlin 2026, Enterprise AI Summit Berlin 2026, case 2027 (Conference on Agentic Software Engineering, Berlin), NAACL 2027 (San Francisco). Correction: AI Engineer Europe 2027 dates confirmed as Feb 17–19, 2027 at ExCeL London (was "Feb 2027, dates TBA"). Not added pending verification: a "Humanoid Robot Conference 2027" (Los Angeles, Apr 28–30) appeared in search results but its official domain is parked/for sale. |
 | 2026-09-17 | Daily crawl update | 25 new events: Data & AI Saturday Vitória 2026, Data & AI Community Day Durban 2026, Gartner Data & Analytics Summit Mumbai 2026, AIBP Conference & Exhibition Philippines 2026, AI Agents 2026 (online), AI Community Days Cebu 2026, 14th Middle East Enterprise AI & Analytics Summit 2026, The AI Pivot Conference 2026, 1nn0vAI 2026, FlowersML_conf Fall 2026, Generative AI Summit Boston 2026, Agentic AI Summit Boston 2026, Agentic AI Summit Toronto 2026, Agentic AI Summit London 2026, NLDL 2027, EACL 2027, AIRC 2027, Agent Conference 2027, ICMLT 2027, Agentic AI Summit New York 2027, CVPR 2027, ICML 2027, ACL 2027, Agentic AI in Financial Services Summit 2027, NeurIPS 2027. Also added: Chief AI Officer Summit Berlin 2026, Agentic AI Summit Berlin 2026, MLcon London/San Diego/Munich 2027 (dates TBD). Corrections: Generative AI Summit Toronto 2026 corrected to Nov 12, 2026 (was Nov 19); the "Agentic AI Summit London 2027 (Jan 28, 2027)" entry was incorrect and has been replaced by Agentic AI Summit London 2026 (Dec 1, 2026) per the organizer calendar; AAIML 2027 venue added (Nihon University, Tokyo) |
